@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy — Safelyo</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <style>
+        /* Reusing core styles from index.html */
+        :root {
+            --c-safelyo-blue: #91A7FF;
+            --c-card-bg: #1E252E;
+            --c-card-border: #2D3640;
+            --c-text-main: #FFFFFF;
+            --c-text-muted: #9CA3AF;
+            --c-bg-main: #151A21;
+            --nav-height: 70px;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: var(--c-bg-main);
+            color: var(--c-text-main);
+            line-height: 1.6;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 24px;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+            color: white;
+        }
+
+        h2 {
+            font-size: 1.5rem;
+            margin-top: 40px;
+            margin-bottom: 16px;
+            color: var(--c-safelyo-blue);
+        }
+
+        p {
+            margin-bottom: 16px;
+            color: var(--c-text-muted);
+        }
+
+        ul {
+            margin-bottom: 16px;
+            padding-left: 20px;
+            color: var(--c-text-muted);
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        .navbar {
+            height: var(--nav-height);
+            display: flex;
+            align-items: center;
+            border-bottom: 1px solid var(--c-card-border);
+            margin-bottom: 60px;
+        }
+
+        .back-link {
+            color: var(--c-text-muted);
+            text-decoration: none;
+            font-size: 0.9rem;
+        }
+
+        .back-link:hover {
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <a href="index.html" class="back-link">← Back to Home</a>
+        </div>
+    </nav>
+
+    <div class="container">
+        <h1>Privacy Policy</h1>
+        <p>Last updated: January 14, 2026</p>
+
+        <p>Your privacy is our priority. Safelyo is designed as an <strong>offline-first</strong> application, meaning
+            your financial data is stored locally on your device by default.</p>
+
+        <h2>1. Data Storage</h2>
+        <p>All your transaction history, asset details, and personal goals are stored in a local encrypted database on
+            your smartphone. We do not transmit this data to our servers for storage.</p>
+
+        <h2>2. Artificial Intelligence (AI) Usage</h2>
+        <p>Safelyo uses third-party AI providers to offer features like asset valuation, risk analysis, and forecasting.
+            We partner with the following providers:</p>
+        <ul>
+            <li><strong>Gemini</strong> (Google)</li>
+            <li><strong>OpenAI</strong> (GPT-4)</li>
+            <li><strong>Perplexity</strong></li>
+        </ul>
+
+        <h2>3. Data Anonymization</h2>
+        <p>When you use AI features, strict anonymization protocols are applied <strong>before</strong> any data leaves
+            your device:</p>
+        <ul>
+            <li>All personally identifiable information (PII) such as names, addresses, and exact bank account numbers
+                are removed.</li>
+            <li>Specific asset names may be generalized (e.g., "1 Bedroom Apartment in Miami" -> "Residential Property
+                in US South").</li>
+            <li>We only send the mathematical vectors and sanitized context required for the specific query.</li>
+        </ul>
+
+        <h2>4. User Responsibility</h2>
+        <p>While we strive to provide accurate insights, AI models can occasionally produce incorrect or "hallucinated"
+            information. You should verify all valuations and financial advice independently.</p>
+
+        <h2>5. Contact Us</h2>
+        <p>If you have questions about this policy, please contact privacy@safelyo.app.</p>
+
+        <br><br><br>
+    </div>
+</body>
+
+</html>
