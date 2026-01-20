@@ -1,10 +1,10 @@
-# Отчет по SEO-оптимизации Safelyo
+# Отчет по SEO-оптимизации Nummira
 
 В рамках задачи по комплексному повышению видимости сайта для поисковых систем (Google, Yandex, Bing) и увеличению органического трафика были выполнены следующие изменения:
 
 ## 1. Мета-теги и Оптимизация Заголовков (Head)
 
--   **Title (Заголовок)**: Изменен на `Safelyo — #1 Offline Net Worth Tracker & Wealth Manager (AI-Powered)`.
+-   **Title (Заголовок)**: Изменен на `Nummira — #1 Offline Net Worth Tracker & Wealth Manager (AI-Powered)`.
     -   *Зачем*: Добавлены ключевые слова "Offline", "Wealth Manager", "AI-Powered" для лучшего ранжирования по целевым запросам.
 -   **Description (Описание)**: Расширено и насыщено ключевыми словами (Crypto, Stocks, Real Estate, Privacy-first).
     -   *Зачем*: Повышает CTR (кликабельность) в выдаче за счет более привлекательного описания.
@@ -18,7 +18,7 @@
 -   **`<main>`**: Основной контент страницы обернут в тег `<main>`, чтобы отделить его от шапки и футера.
 -   **H1-H3 Иерархия**: Заголовки переписаны с использованием ключевых слов:
     -   *Было*: "The Ultimate Wealth Operating System" -> *Стало*: "The Ultimate **Offline Net Worth Tracker**".
-    -   *Было*: "Why Safelyo?" -> *Стало*: "Why Safelyo is the Best **Private Wealth Manager**?".
+    -   *Было*: "Why Safelyo?" -> *Стало*: "Why Nummira is the Best **Private Wealth Manager**?".
     -   *Было*: "Wealth Intelligence & Control" -> *Стало*: "**Advanced Wealth Analytics** & Control".
 
 ## 3. Структурированные Данные (Schema.org)

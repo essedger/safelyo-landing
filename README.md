@@ -1,10 +1,10 @@
-# Safelyo — #1 Offline Net Worth Tracker & Wealth Manager (AI-Powered)
+# Nummira — #1 Offline Net Worth Tracker & Wealth Manager (AI-Powered)
 
 > "Know Your Net Worth. Master Your Wealth."
 
 ## 📋 Project Summary
 
-**Safelyo** is an offline-first wealth tracking application designed for privacy-conscious investors. It allows users to consolidate all assets—cryptocurrency (including cold wallets), stocks, real estate, and cash—into a single dashboard without ever sending sensitive financial data to the cloud.
+**Nummira** is an offline-first wealth tracking application designed for privacy-conscious investors. It allows users to consolidate all assets—cryptocurrency (including cold wallets), stocks, real estate, and cash—into a single dashboard without ever sending sensitive financial data to the cloud.
 
 All data is stored locally on the user's device. The app uses AI (Gemini, OpenAI, Perplexity) responsibly to provide real-time asset valuations and insights, with strict data anonymization protocols.
 
@@ -30,7 +30,7 @@ All data is stored locally on the user's device. The app uses AI (Gemini, OpenAI
 - **Connectivity**: Works 100% offline (except for optional AI features and price fetch updates).
 
 ### Landing Page Tech Stack
-This repository contains the static landing page for Safelyo.
+This repository contains the static landing page for Nummira.
 - **HTML5**
 - **CSS3** (Vanilla with Variables)
 - **Zero Dependencies** (Pure static site)
@@ -58,6 +58,6 @@ To run this landing page locally:
 
 ## 🔗 Important Links
 
-- **Official Website**: [https://safelyo.app/](https://safelyo.app/)
-- **Privacy Policy**: [https://safelyo.app/privacy.html](https://safelyo.app/privacy.html)
-- **Terms of Service**: [https://safelyo.app/terms.html](https://safelyo.app/terms.html)
+- **Official Website**: [https://nummira.com/](https://nummira.com/)
+- **Privacy Policy**: [https://nummira.com/privacy.html](https://nummira.com/privacy.html)
+- **Terms of Service**: [https://nummira.com/terms.html](https://nummira.com/terms.html)
